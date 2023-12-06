@@ -6,7 +6,7 @@ pipeline {
             steps {
                 git branch: 'master', 
                 credentialsId: 'git-jenkins', 
-                url: 'https://github.com/Darkphoenix98/Microservicio.git'
+                url: 'https://github.com/Darkphoenix98/MICROS.git'
             }
         }
 
